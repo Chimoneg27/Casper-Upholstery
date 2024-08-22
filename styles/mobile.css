@@ -83,7 +83,7 @@ nav a {
     height: 100%;
     padding: 4rem 1.75rem;
     gap: 2rem;
-    color: var(--black);
+    color: black;
     font-size: 2rem;
     font-weight: 700;
     background-color: var(--white);
@@ -92,6 +92,8 @@ nav a {
     justify-content: start;
     transition: 0.6s ease;
     line-height: 2.75rem;
+    z-index: 2;
+    background-color: white;
 }
 
 .page-links {
