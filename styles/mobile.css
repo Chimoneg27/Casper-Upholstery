@@ -149,3 +149,26 @@ nav a {
     height: auto;
     margin-top: 1rem;
 }
+
+#services {
+    width: 100%;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+#services h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+#services p {
+    font-size: 1.25rem;
+    font-weight: bold;
+    text-align: center;
+}
