@@ -15,7 +15,7 @@ body {
     font-family: "Rubik", 'Times New Roman', Times, serif;
 }
 
-header{
+header {
     width: 100%;
     height: auto;
 }
@@ -175,7 +175,7 @@ nav a {
     text-align: center;
 }
 
-.service {
+.offered {
     width: 100%;
     padding: 0.5rem;
     display: flex;
@@ -186,17 +186,17 @@ nav a {
     margin-top: 2rem;
 }
 
-.service img {
+.offered img {
     width: 20rem;
     height: 20rem;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
 }
 
-.service h3 {
+.offered h3 {
     font-size: 1.5rem;
 }
 
-.service p {
+.offered p {
     margin-top: 0.75rem;
 }
