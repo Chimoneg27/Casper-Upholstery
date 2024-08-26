@@ -6,8 +6,20 @@ const services = [
   {
     title: "Re-upholstery",
     image: "./images/serve1.jpg",
-    altText: "sofa",
+    altText: "chair1",
     description: "Our re-upholstery services will give your furniture a new look and feel."
+  },
+  {
+    title: "Custom Furniture",
+    image: "./images/sofa2.JFIF",
+    altText: "SOFA1",
+    description: "We can create custom furniture to fit your unique style and needs.",
+  },
+  {
+    title: "Vehicle Interior",
+    image: "./images/carInt1.JFIF",
+    altText: "car1",
+    description: "We can re-upholster your vehicle's interior to make it look brand new"
   }
 ]
 
