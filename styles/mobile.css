@@ -204,3 +204,13 @@ nav a {
 #cards {
     margin-bottom: 0.75rem;
 }
+
+#services button {
+    padding: 0.75rem;
+    width: 150px;
+    margin-top: 2rem;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 1.25rem;
+}
