@@ -251,6 +251,7 @@ footer {
     margin-top: 3rem;
     background-color: black;
     padding: 2rem 1rem;
+    display: flex;
 }
 
 .left ul {
@@ -263,4 +264,14 @@ footer {
 
 .fa-brands {
     color: white;
+}
+
+.right ul {
+    list-style: none;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    color: white;
+    font-size: 1.25rem;
 }
