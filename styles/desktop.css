@@ -66,4 +66,25 @@
     #cards {
         display: flex;
     }
+
+    #cta h2{
+        text-align: center;
+    }
+
+    #cta p {
+        font-size: 1.5rem;
+        font-weight: 700;
+        text-align: center;
+    }
+
+    footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0.5rem;
+    }
+
+    .left ul {
+        flex-direction: row;
+    }
 }
