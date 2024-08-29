@@ -145,7 +145,7 @@ nav a {
     margin-top: 2rem;
 }
 
-#intro img {
+#intro #img1 {
     width: 100%;
     height: auto;
     margin-top: 1rem;
@@ -204,6 +204,10 @@ nav a {
 
 #cards {
     margin-bottom: 0.75rem;
+}
+
+#img2 {
+    display: none;
 }
 
 #services button {
